@@ -1,0 +1,71 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #212121;
+}
+a[info@devstudio.com] {
+  color: #757575;
+}
+
+.header-contact > li a {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  color: #757575;
+}
+
+.title1 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 36;
+  letter-spacing: 0.06em;
+  text-align: left;
+}
+.title2 {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 30;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.title3 {
+  font-family: Roboto;
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 60;
+  letter-spacing: 0.06em;
+  text-align: center;
+}
+
+.blue {
+  color: #2196f3;
+}
+
+.link:visited {
+  color: #212121;
+}
+.link:focus,
+.link:hover {
+  color: #2196f3;
+}
+
+.button {
+  background: #2196f3;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.875;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.efektywne {
+  height: 120px;
+  width: 696px;
+  left: 452px;
+  top: 280px;
+  border-radius: nullpx;
+}
