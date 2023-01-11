@@ -92,8 +92,6 @@ a[info@devstudio.com] {
 
 .button {
   position: absolute;
-  width: 121px;
-  height: 38px;
   left: 510px;
   top: 174px;
   background: #2196f3;
@@ -102,20 +100,26 @@ a[info@devstudio.com] {
   border-radius: 4px;
   font-weight: 700;
   font-size: 16px;
-  line-height: 1.875;
   letter-spacing: 0.06em;
   color: #ffffff;
   cursor: pointer;
   padding: 15px 30px;
+  border-style: none;
 }
+
 .button2 {
-  position: absolute;
-  width: 121px;
-  height: 38px;
-  left: 961px;
+  position: inherit;
+  left: 510px;
   top: 174px;
   background: #f5f4fa;
   border-radius: 4px;
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 0.06em;
+  color: #212121;
+  cursor: pointer;
+  padding: 15px 30px;
+  border-style: none;
 }
 
 .efektywne {
