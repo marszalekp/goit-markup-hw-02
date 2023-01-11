@@ -90,6 +90,12 @@ a[info@devstudio.com] {
   color: #2196f3;
 }
 
+.link2: focus;
+,.link2: hover {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+
 .button {
   position: absolute;
   left: 510px;
