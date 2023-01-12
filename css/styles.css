@@ -131,6 +131,10 @@ a[info@devstudio.com] {
   padding: 15px 30px;
   border-style: none;
 }
+.button2:hover {
+  background-color: #2196f3;
+  color: #ffffff;
+}
 
 .efektywne {
   height: 120px;
