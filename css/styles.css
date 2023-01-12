@@ -91,7 +91,7 @@ a[info@devstudio.com] {
 .link:focus,
 .link:hover {
   color: #2196f3;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .link {
