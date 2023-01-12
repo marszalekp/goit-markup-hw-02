@@ -81,6 +81,9 @@ a[info@devstudio.com] {
 .blue {
   color: #2196f3;
 }
+.black {
+  color: #000000;
+}
 
 .link:visited {
   color: #212121;
@@ -88,16 +91,11 @@ a[info@devstudio.com] {
 .link:focus,
 .link:hover {
   color: #2196f3;
+  text-decoration: underline;
 }
 
-.button-links .link {
-  background-color: #f5f4fa;
-  color: #ffffff;
-}
-
-.button-links .link:hover {
-  background-color: #2196f3;
-  color: #212121;
+.link {
+  text-decoration: none;
 }
 
 .button {
@@ -142,4 +140,22 @@ a[info@devstudio.com] {
   left: 452px;
   top: 280px;
   border-radius: nullpx;
+}
+
+.Webstudio {
+  position: static;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  /* identical to box height */
+  text-decoration: none;
+
+  letter-spacing: 0.03em;
 }
